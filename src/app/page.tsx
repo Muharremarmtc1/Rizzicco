@@ -170,10 +170,9 @@ export default function HomePage() {
       {/* HERO */}
       <section className="text-center px-6 py-16">
         <h2 className="text-5xl md:text-7xl font-black leading-tight">
-          Améliore
-          <br />
-          Ton Rizz
-        </h2>
+  Rizz Plus
+  <br />
+</h2>
 
         <p className="text-white/60 mt-6 max-w-xl mx-auto text-lg">
           Les meilleures phrases pour parler avec style.
